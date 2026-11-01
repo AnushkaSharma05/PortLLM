@@ -1,0 +1,8 @@
+{
+  "desktop_models": [
+    {"name":"Gemma 2 2B Abliterated","file":"gemma-2-2b-it-abliterated-Q4_K_M.gguf","url":"https://huggingface.co/bartowski/gemma-2-2b-it-abliterated-GGUF/resolve/main/gemma-2-2b-it-abliterated-Q4_K_M.gguf","size_gb":1.6,"ram_gb":8,"ollama":"gemma2:2b"},
+    {"name":"Phi-3.5 Mini","file":"Phi-3.5-mini-instruct-Q4_K_M.gguf","url":"https://huggingface.co/bartowski/Phi-3.5-mini-instruct-GGUF/resolve/main/Phi-3.5-mini-instruct-Q4_K_M.gguf","size_gb":2.2,"ram_gb":8,"ollama":"phi3.5"},
+    {"name":"Dolphin 2.9 Llama 3 8B","file":"dolphin-2.9-llama3-8b-Q4_K_M.gguf","url":"https://huggingface.co/bartowski/dolphin-2.9-llama3-8b-GGUF/resolve/main/dolphin-2.9-llama3-8b-Q4_K_M.gguf","size_gb":4.9,"ram_gb":16,"ollama":"dolphin-llama3:8b"}
+  ],
+  "android_models": [{"name":"SmolLM2 1.7B","file":"SmolLM2-1.7B-Instruct-Q4_K_M.gguf","size_gb":1.0,"ram_gb":4}]
+}

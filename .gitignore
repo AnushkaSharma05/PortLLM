@@ -1,0 +1,9 @@
+Shared/chat_data/
+Shared/logs/
+Shared/models/
+Shared/bin/
+Shared/vendor/
+node_modules/
+dist/
+.DS_Store
+*.log
